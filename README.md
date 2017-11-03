@@ -1,0 +1,2 @@
+# WSir
+python stock analysis
